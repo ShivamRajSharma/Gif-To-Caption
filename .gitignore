@@ -1,0 +1,4 @@
+*.gif
+*.GIF
+*.bin
+__pycache__
